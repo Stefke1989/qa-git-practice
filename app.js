@@ -2,7 +2,7 @@ function login(user) {
     if (!user) {
         return "No user";
     }
-    return "Login successful!";
+    return "User logged in!!!";
 }
 
 module.exports = { login };
