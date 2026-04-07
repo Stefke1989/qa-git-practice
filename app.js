@@ -1,5 +1,5 @@
 function login(user) {
-    return "User logged in";
+    return "Login successful!";
 }
 
 module.exports = { login };
